@@ -1,0 +1,9 @@
+[submodule "mocap4r2_msgs"]
+	path = mocap4r2_msgs
+	url = git@github.com:MOCAP4ROS2-Project/mocap4r2_msgs.git
+[submodule "mocap4r2"]
+	path = mocap4r2
+	url = git@github.com:MOCAP4ROS2-Project/mocap4r2.git
+[submodule "mocap4ros2_optitrack"]
+	path = mocap4ros2_optitrack
+	url = git@github.com:paknap/mocap4ros2_optitrack.git
